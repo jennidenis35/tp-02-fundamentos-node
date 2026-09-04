@@ -1,0 +1,37 @@
+
+CATÁLOGO DE JUEGOS DE MESA
+==========================
+
+Cantidad de juegos: 4
+
+
+1. Catan
+Editorial y año: Devir (1995)
+Participantes: 3 a 4
+Categorías: Estrategia, Comercio
+Estado: Disponible
+
+-------------------------
+
+2. Dixit
+Editorial y año: Libellud (2008)
+Participantes: 3 a 8
+Categorías: Creatividad, Familiar
+Estado: Disponible
+
+-------------------------
+
+3. Carcassonne
+Editorial y año: Hans im Glück (2000)
+Participantes: 2 a 5
+Categorías: Estrategia, Construcción
+Estado: No disponible
+
+-------------------------
+
+4. Uno
+Editorial y año: Mattel (1971)
+Participantes: 2 a 10
+Categorías: Cartas, Familiar
+Estado: Disponible
+

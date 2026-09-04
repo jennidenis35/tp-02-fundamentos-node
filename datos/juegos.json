@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "Catan",
+    "editorial": "Devir",
+    "anio": 1995,
+    "jugadoresMin": 3,
+    "jugadoresMax": 4,
+    "categorias": ["Estrategia", "Comercio"],
+    "disponible": true
+  },
+  {
+    "titulo": "Dixit",
+    "editorial": "Libellud",
+    "anio": 2008,
+    "jugadoresMin": 3,
+    "jugadoresMax": 8,
+    "categorias": ["Creatividad", "Familiar"],
+    "disponible": true
+  },
+  {
+    "titulo": "Carcassonne",
+    "editorial": "Hans im Glück",
+    "anio": 2000,
+    "jugadoresMin": 2,
+    "jugadoresMax": 5,
+    "categorias": ["Estrategia", "Construcción"],
+    "disponible": false
+  },
+  {
+    "titulo": "Uno",
+    "editorial": "Mattel",
+    "anio": 1971,
+    "jugadoresMin": 2,
+    "jugadoresMax": 10,
+    "categorias": ["Cartas", "Familiar"],
+    "disponible": true
+  }
+]
